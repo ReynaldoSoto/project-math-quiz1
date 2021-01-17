@@ -1,0 +1,23 @@
+ body{
+    background-image: url("Style\ bg.png");
+    background-size: cover;
+}
+.login_div1 , .login_div2
+{
+    background: rgb(255, 157, 0);
+    padding: 10px;
+    float: none;
+    border-radius: 15px; 
+    width: 50%;
+}
+h4{
+    color: black;
+}
+#output{
+    background-color: rgba(253, 194, 0, 0.856);
+    border-radius: 10px;
+    border-top: 10px solid #b8073fbc;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
